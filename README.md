@@ -5,3 +5,4 @@
 * HW4:Logistic regression & Perceptron
 * HW5:Neural Network
 * HW6:CNNs, RNNs and LSTM
+* HW7:SNN
